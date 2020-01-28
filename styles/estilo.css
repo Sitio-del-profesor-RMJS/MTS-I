@@ -1,0 +1,81 @@
+body {
+  padding-top: 5rem;
+}
+
+h1 {
+	padding-bottom: 5px;
+}
+
+.identificación p {
+	font-style: italic; 
+	text-align: right;
+	padding-bottom: 5px;
+}
+
+.programa {
+	text-align: justify;
+	padding-bottom: 10px;
+}
+
+.programa-tabla {
+	padding-top: 10px;
+}
+
+.evaluacion {
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+
+.evaluacion p {
+	text-align: justify;
+}
+
+.evaluacion-tabla {
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+
+.evaluacion-tabla table tbody th {
+	font-weight: normal;
+}
+
+.programacion a:link {
+	color: #000000;
+}
+
+.programacion a:hover {
+	color: #484f4f;
+}
+
+.programacion a:visited {
+	color: #484f4f;
+	text-decoration: none;
+}
+
+.bibliografia {
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.bibliografia ul {
+	list-style-type: none;
+}
+
+.bibliografia ul li:before {
+	font-family: 'FontAwesome';
+	content: '\f15c';
+	margin: 0 15px 0 -15px;
+}
+
+.bibliografia ul li {
+	padding-bottom: 5px;
+}
+
+.footer {
+	text-align: right;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	line-height: 60px;
+	background-color: #f5f5f5;
+}
